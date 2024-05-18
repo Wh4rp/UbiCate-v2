@@ -3141,7 +3141,10 @@
         "identifier": "banou33sj",
         "name": "Baño Universal 33",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "EA",
         "floors": 1,
@@ -3162,7 +3165,10 @@
         "identifier": "banou41",
         "name": "Baño Universal 41",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "",
         "floors": 1,
@@ -3204,7 +3210,10 @@
         "identifier": "banou42sj",
         "name": "Baño Universal 42",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "EDU",
         "floors": 1,
@@ -3225,7 +3234,10 @@
         "identifier": "banou05sj",
         "name": "Baño Universal 05",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "ENF",
         "floors": 1,
@@ -3267,7 +3279,10 @@
         "identifier": "banou34sj",
         "name": "Baño Universal 34",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "HIS",
         "floors": 1,
@@ -3288,7 +3303,10 @@
         "identifier": "banou04sj",
         "name": "Baño Universal 04",
         "information": "Accesibilidad Universal",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "CCL",
         "floors": "2,3,4,5",
@@ -3351,7 +3369,10 @@
         "identifier": "banou07sj",
         "name": "Baño Universal 07",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "ING",
         "floors": 1,
@@ -3414,7 +3435,10 @@
         "identifier": "banou23sj",
         "name": "Baño Universal 23",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "SOC",
         "floors": 1,
@@ -3435,7 +3459,10 @@
         "identifier": "banou25sj",
         "name": "Baño Universal 25",
         "information": "Con Mudador",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "",
         "floors": 1,
@@ -3852,7 +3879,10 @@
         "identifier": "banou36sj",
         "name": "Baño Universal 36",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "HIS",
         "floors": 1,
@@ -14253,7 +14283,10 @@
         "identifier": "banou13sj",
         "name": "Baño Universal 13",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "faculties": "",
         "floor": "1,2,3,4,5,6,7",
@@ -14592,7 +14625,10 @@
         "identifier": "banou05lc",
         "name": "Baño Universal 05",
         "information": "Con Mudador",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "LC",
         "floors": 1
       },
@@ -14647,7 +14683,10 @@
         "identifier": "banou08lc",
         "name": "Baño Universal 08",
         "information": "",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "LC",
         "floors": 1
       },
@@ -14665,7 +14704,10 @@
       "properties": {
         "identifier": "banou01sj",
         "name": "Baño Universal 01",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "floors": -1
       },
@@ -14701,7 +14743,10 @@
       "properties": {
         "identifier": "banou09sj",
         "name": "Baño Universal 09",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "floors": -1
       },
@@ -14792,7 +14837,10 @@
       "properties": {
         "identifier": "banou18sj",
         "name": "Baño Universal 18",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "floors": 1
       },
@@ -14871,7 +14919,10 @@
       "properties": {
         "identifier": "banouh23sj",
         "name": "Baño Hombres / Baño Universal 23",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "floors": 2
       },
@@ -14929,7 +14980,10 @@
       "properties": {
         "identifier": "banou39sj",
         "name": "Baño Universal 39",
-        "categories": "bath, universal bath",
+        "categories": [
+          "bath",
+          "universal bath"
+        ],
         "campus": "SJ",
         "floors": 1
       },
