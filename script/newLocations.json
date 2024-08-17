@@ -1,0 +1,111 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6109,
+            -33.4983
+          ]
+        },
+        "properties": {
+          "information": "J",
+          "name": "AUD",
+          "floor": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6109,
+            -33.4983
+          ]
+        },
+        "properties": {
+          "information": "",
+          "name": "AUD_J",
+          "floor": 0
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6115919589123,
+            -33.4969716383619
+          ]
+        },
+        "properties": {
+          "information": "Comercial, requiere credencial validada",
+          "name": "AE206",
+          "floor": 2
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6139736,
+            -33.4987345
+          ]
+        },
+        "properties": {
+          "information": "",
+          "name": "N16-A",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.6109,
+            -33.4983
+          ]
+        },
+        "properties": {
+          "information": "",
+          "name": "EA004",
+          "floor": 0
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.61505206410497,
+            -33.49906755630204
+          ]
+        },
+        "properties": {
+          "information": "",
+          "name": "FIUC administración",
+          "floor": 1
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -70.61220121520697,
+            -33.49899179380137
+          ]
+        },
+        "properties": {
+          "information": "",
+          "name": "M5",
+          "floor": 1
+        }
+      }
+    ]
+  }

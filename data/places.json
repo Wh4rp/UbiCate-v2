@@ -903,6 +903,46 @@
         },
         {
             "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61016322477313,
+                    -33.49675550699265
+                ]
+            },
+            "properties": {
+                "identifier": "subway",
+                "name": "Subway",
+                "information": "",
+                "categories": "food_lunch",
+                "campus": "SJ",
+                "faculties": "",
+                "floors": [1],
+                "category": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -70.61343529866869,
+                -33.49828283091292
+              ]
+            },
+            "properties": {
+                "identifier": "Mahalo Poke and Sushi",
+                "name": "Mahalo Poke and Sushi",
+                "information": "",
+                "categories": "food_lunch",
+                "campus": "SJ",
+                "faculties": "",
+                "floors": [1],
+                "category": ""
+            }
+          },
+        {
+            "type": "Feature",
             "properties": {
                 "identifier": "Auditorio_SA",
                 "name": "Auditorio",
@@ -6551,6 +6591,26 @@
         },
         {
             "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -70.61444980943389,
+                -33.49797681701413
+              ]
+            },
+            "properties": {
+                "identifier": "ED209",
+                "name": "ED209",
+                "information": "",
+                "categories": "classroom",
+                "campus": "SJ",
+                "faculties": "EDU",
+                "floors": [2],
+                "category": ""
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "identifier": "ED214",
                 "name": "ED214",
@@ -6558,7 +6618,7 @@
                 "categories": "classroom",
                 "campus": "SJ",
                 "faculties": "EDU",
-                "floors": [0],
+                "floors": [2],
                 "category": ""
             },
             "geometry": {
@@ -6578,7 +6638,7 @@
                 "categories": "classroom",
                 "campus": "SJ",
                 "faculties": "EDU",
-                "floors": [0],
+                "floors": [2],
                 "category": ""
             },
             "geometry": {
@@ -6598,7 +6658,7 @@
                 "categories": "classroom",
                 "campus": "SJ",
                 "faculties": "EDU",
-                "floors": [0],
+                "floors": [2],
                 "category": ""
             },
             "geometry": {
@@ -6618,7 +6678,7 @@
                 "categories": "classroom",
                 "campus": "SJ",
                 "faculties": "EDU",
-                "floors": [0],
+                "floors": [2],
                 "category": ""
             },
             "geometry": {
@@ -6638,7 +6698,7 @@
                 "categories": "classroom",
                 "campus": "SJ",
                 "faculties": "EDU",
-                "floors": [0],
+                "floors": [2],
                 "category": ""
             },
             "geometry": {
@@ -12498,7 +12558,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 2.0,
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12514,8 +12574,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 2.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12534,8 +12595,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 2.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12554,8 +12616,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 2.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12574,8 +12637,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 2.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12594,8 +12658,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 2.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12614,8 +12679,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12634,8 +12700,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12654,8 +12721,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12674,8 +12742,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12694,8 +12763,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12714,8 +12784,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12734,8 +12805,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12751,8 +12823,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "classroom"
             },
             "geometry": {
@@ -12771,8 +12844,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 6.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [6],
                 "category": "laboratory"
             },
             "geometry": {
@@ -12792,7 +12866,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 1.0,
+                "floors": [1],
                 "category": "classroom"
             },
             "geometry": {
@@ -12805,6 +12879,46 @@
         },
         {
             "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -70.61025614045515,
+                -33.49666302388468
+              ]
+            },
+            "properties": {
+                "identifier": "Auditorio edificio pataguas",
+                "name": "Auditorio edificio pataguas",
+                "information": "Facultad de Economía",
+                "categories": "",
+                "campus": "SJ",
+                "faculties": "",
+                "floors": [-1],
+                "category": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+              "type": "Point",
+              "coordinates": [
+                -70.61318693749489,
+                -33.500789937775814
+              ]
+            },
+            "properties": {
+                "identifier": "METROLOGIA",
+                "name": "DICTUC - Metrología",
+                "information": "",
+                "categories": "",
+                "campus": "SJ",
+                "faculties": "",
+                "floors": [2],
+                "category": ""
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "identifier": "NT201",
                 "name": "NT201",
@@ -12812,7 +12926,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 2.0,
+                "floors": [2],
                 "category": "classroom"
             },
             "geometry": {
@@ -12832,7 +12946,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 1.0,
+                "floors": [1],
                 "category": "studyroom"
             },
             "geometry": {
@@ -12846,33 +12960,13 @@
         {
             "type": "Feature",
             "properties": {
-                "identifier": "Laboratorio Qu\u00edmica",
-                "name": "Laboratorio Qu\u00edmica",
-                "information": "",
-                "categories": "",
-                "campus": "SJ",
-                "faculties": "",
-                "floor": 4.0,
-                "category": "laboratory"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.61332,
-                    -33.50008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "identifier": "Laboratorio de trabajo",
                 "name": "Laboratorio de trabajo",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 4.0,
+                "floors": [4],
                 "category": "laboratory"
             },
             "geometry": {
@@ -12886,40 +12980,21 @@
         {
             "type": "Feature",
             "properties": {
-                "identifier": "SAI",
-                "name": "Sala ayudantes ingenier\u00eda",
-                "information": "",
-                "categories": "",
-                "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
-                "category": "studyroom-classroom"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -70.6144295,
-                    -33.5015208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "identifier": "Laboratorio de f\u00edsica",
                 "name": "Laboratorio de f\u00edsica",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 4.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [4],
                 "category": "laboratory"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.6126444,
-                    -33.5001032
+                    -70.61186795835171,
+                    -33.500327367042885
                 ]
             }
         },
@@ -12931,28 +13006,30 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 5.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [5],
                 "category": "laboratory"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.6123187,
-                    -33.500048
+                    -70.61189264926479,
+                    -33.50016594152947
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "identifier": "Laboratorio ingenier\u00eda de materiales",
+                "identifier": "Laboratorio ingenieria de materiales",
                 "name": "Laboratorio ingenier\u00eda de materiales",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 5.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [5],
                 "category": "laboratory"
             },
             "geometry": {
@@ -12971,8 +13048,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 5.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [5],
                 "category": "laboratory"
             },
             "geometry": {
@@ -12991,8 +13069,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13011,15 +13090,16 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 5.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [5],
                 "category": "laboratory"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.612064,
-                    -33.50015
+                    -70.61187732560768,
+                    -33.500214498434666
                 ]
             }
         },
@@ -13031,15 +13111,16 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 5.0,
+                "faculties": "ING",
+                "building":"Edificio dfe Ciencia y Tecnología",
+                "floors": [5],
                 "category": "?"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -70.6120645,
-                    -33.5001505
+                    -70.61187119615293,
+                    -33.50009182829053
                 ]
             }
         },
@@ -13051,8 +13132,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 3.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [3],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13066,13 +13148,14 @@
         {
             "type": "Feature",
             "properties": {
-                "identifier": "Instituto biolog\u00eda de ingenier\u00eda biol\u00f3gica y m\u00e9dica",
+                "identifier": "Instituto biologia de ingenieria biologica y medica",
                 "name": "Instituto biolog\u00eda de ingenier\u00eda biol\u00f3gica y m\u00e9dica",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 7.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [7],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13086,13 +13169,14 @@
         {
             "type": "Feature",
             "properties": {
-                "identifier": "Laboratorio Electr\u00f3nica y Rob\u00f3tica",
+                "identifier": "Laboratorio Electronica y Robotica",
                 "name": "Laboratorio Electr\u00f3nica y Rob\u00f3tica",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 6.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [6],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13112,7 +13196,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 7.0,
+                "floors": [7],
                 "category": "bath"
             },
             "geometry": {
@@ -13126,13 +13210,14 @@
         {
             "type": "Feature",
             "properties": {
-                "identifier": "Laboratorio Sustentabilidad y Recursos Cr\u00edticos",
+                "identifier": "Laboratorio Sustentabilidad y Recursos Criticos",
                 "name": "Laboratorio Sustentabilidad y Recursos Cr\u00edticos",
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 6.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [6],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13151,8 +13236,9 @@
                 "information": "",
                 "categories": "",
                 "campus": "SJ",
-                "faculties": "",
-                "floor": 6.0,
+                "faculties": "ING",
+                "building": "Edificio de Ciencia y Tecnología",
+                "floors": [6],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13314,7 +13400,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 6.0,
+                "floors": [6],
                 "category": "laboratory"
             },
             "geometry": {
@@ -13334,7 +13420,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 2.0,
+                "floors": [2],
                 "category": "bath"
             },
             "geometry": {
@@ -13354,7 +13440,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 1.0,
+                "floors": [1],
                 "category": "auditorium"
             },
             "geometry": {
@@ -13374,7 +13460,7 @@
                 "categories": "",
                 "campus": "SJ",
                 "faculties": "",
-                "floor": 1.0,
+                "floors": [1],
                 "category": "auditorium"
             },
             "geometry": {
